@@ -210,7 +210,7 @@ def revAlg(alg):
 
 # Flag :)
 cube = Cube("_mwl{h}i_innihyosu_sOvtm_snsuo__Llgtfhepgtetoacay_Li__")
-givenAlgorithm = "B2 R2 L' F' U D2 D' L' U2 F2 B U R' L' L F' U' U U' F U2 R' D F D2 B F' L' B2 L D2 L R2 L2 L2 R U2 D2 B' D' L2 R B2 U L U2 L F' R L" # 
+givenAlgorithm = "B2 R2 L' F' U D2 D' L' U2 F2 B U R' L' L F' U' U U' F U2 R' D F D2 B F' L' B2 L D2 L R2 L2 L2 R U2 D2 B' D' L2 R B2 U L U2 L F' R L"
 solveAlgorithm = revAlg(givenAlgorithm)
 
 print("Unsolved cube:")
